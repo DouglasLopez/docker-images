@@ -1,3 +1,6 @@
+
+This is a fork of the original confluentinc/docker-images to use the new version 2.0 
+
 Confluent Stream Data Platform on Docker
 ========================================
 
